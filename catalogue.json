@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "dictees": [
+    {
+      "id": 1001,
+      "titre": "Le marché du dimanche",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 100,
+      "minutes": 2,
+      "texte": "Chaque dimanche, ma grand-mère m'emmène au marché. Les marchands annoncent leurs prix et l'odeur des fraises remplit la rue. Elle choisit toujours les plus belles pommes, puis elle m'achète une crêpe au sucre. Nous rentrons à pied, les bras chargés de paniers.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 7,
+      "image": "images/1001.svg",
+      "imageSha256": "81103728ec069393078e11d477c8342b5623e431f2a6aa0a0391f0f43c2a4d30",
+      "paquet": {
+        "url": "dictees/1001.zip",
+        "taille": 282086,
+        "sha256": "db82b2d448dcc1c126406fd31a65ec58c8759f290f5ca6c5200160bf4a075834"
+      },
+      "version": "v1"
+    }
+  ]
+}

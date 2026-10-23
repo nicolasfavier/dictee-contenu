@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g stroke-linecap="round" stroke-linejoin="round">
+<path fill="none" stroke="#000" stroke-width="52" d="M136 236c0-88 54-150 120-150s120 62 120 150"/>
+<path fill="none" stroke="#a0632d" stroke-width="22" d="M136 236c0-88 54-150 120-150s120 62 120 150"/>
+<path fill="none" stroke="#7d4a1f" stroke-width="22" d="M136 236c0-60 22-108 58-132"/>
+<circle cx="190" cy="226" r="62" fill="#e8473f"/>
+<path fill="#c2302a" d="M190 164a62 62 0 0 0 0 124 62 62 0 0 1 0-124z"/>
+<circle cx="190" cy="226" r="62" fill="none" stroke="#000" stroke-width="15"/>
+<path fill="#5c9e31" stroke="#000" stroke-width="12" d="M196 168c6-22 24-34 44-30-6 20-24 32-44 30z"/>
+<circle cx="318" cy="222" r="58" fill="#f5b731"/>
+<path fill="#e0961a" d="M318 164a58 58 0 0 0 0 116 58 58 0 0 1 0-116z"/>
+<circle cx="318" cy="222" r="58" fill="none" stroke="#000" stroke-width="15"/>
+<path fill="#5c9e31" stroke="#000" stroke-width="12" d="M322 168c4-20 20-32 40-30-4 18-20 30-40 30z"/>
+<path fill="#e8473f" d="M256 196c-30 0-46 24-40 52 6 26 24 44 40 52 16-8 34-26 40-52 6-28-10-52-40-52z"/>
+<path fill="#c2302a" d="M256 196c-30 0-46 24-40 52 6 26 24 44 40 52-12-14-22-40-22-62 0-20 8-36 22-42z"/>
+<path fill="none" stroke="#000" stroke-width="15" d="M256 196c-30 0-46 24-40 52 6 26 24 44 40 52 16-8 34-26 40-52 6-28-10-52-40-52z"/>
+<path fill="#5c9e31" stroke="#000" stroke-width="12" d="M232 198l24-18 24 18-24 8z"/>
+<g fill="#ffe08a"><circle cx="246" cy="232" r="4"/><circle cx="266" cy="232" r="4"/><circle cx="256" cy="252" r="4"/><circle cx="244" cy="268" r="4"/><circle cx="268" cy="268" r="4"/></g>
+<path fill="#d9904a" d="M96 262h320l-30 186c-3 18-18 30-36 30H162c-18 0-33-12-36-30z"/>
+<path fill="#b8732f" d="M96 262h52l24 216h-10c-18 0-33-12-36-30z"/>
+<g fill="none" stroke="#a0632d" stroke-width="10"><path d="M112 322h288M120 378h272M130 432h252"/><path d="M200 282l10 190M256 282v190M312 282l-10 190"/></g>
+<path fill="none" stroke="#000" stroke-width="15" d="M96 262h320l-30 186c-3 18-18 30-36 30H162c-18 0-33-12-36-30z"/>
+<rect width="352" height="40" x="80" y="240" fill="#a0632d" rx="20"/>
+<rect width="70" height="40" x="80" y="240" fill="#7d4a1f" rx="20"/>
+<rect width="352" height="40" x="80" y="240" fill="none" stroke="#000" stroke-width="15" rx="20"/>
+</g>
+</svg>

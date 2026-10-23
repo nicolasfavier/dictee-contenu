@@ -1,0 +1,14 @@
+name: Vider le cache jsDelivr du catalogue
+
+on:
+  push:
+    branches: [main]
+    paths: [catalogue.json]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge
+        run: |
+          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/catalogue.json"
