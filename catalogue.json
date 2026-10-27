@@ -20,6 +20,26 @@
         "sha256": "db82b2d448dcc1c126406fd31a65ec58c8759f290f5ca6c5200160bf4a075834"
       },
       "version": "v1"
+    },
+    {
+      "id": 1002,
+      "titre": "Le téléphone de grand-mère",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 101,
+      "minutes": 2,
+      "texte": "Ma grand-mère a un téléphone neuf. Elle parle très fort dedans, car elle pense que sa voix doit aller jusqu'au village. Tout le quartier connaît maintenant la vie de sa famille.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 6,
+      "image": "images/1002.svg",
+      "imageSha256": "eeae99bc1a977365318c484a21013454a60025eac061a8e3fed8c80630715ec3",
+      "paquet": {
+        "url": "dictees/1002.zip",
+        "taille": 292308,
+        "sha256": "864b43b37d5789a476cd7f8b5936ec8f30d607318572d86e4d9b82fbb6a39623"
+      },
+      "version": "v2"
     }
   ]
 }
