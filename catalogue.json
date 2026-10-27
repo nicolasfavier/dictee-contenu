@@ -40,6 +40,86 @@
         "sha256": "d5430238d93395b66ff5f90d267adb231c5ed5d56919fb5f14144f2630c4dec6"
       },
       "version": "v3"
+    },
+    {
+      "id": 1003,
+      "titre": "Le coq",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 102,
+      "minutes": 2,
+      "texte": "Chez nous, le coq chante avant le réveil. Papa dit que c'est le meilleur réveil du monde. Il ne tombe jamais en panne, mais il ne connaît pas le dimanche.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 6,
+      "image": "images/1003.svg",
+      "imageSha256": "a13d1e9bce8be82a2c403b6c0376c7daa6f52c56a71b550f29ab3a937348e9d0",
+      "paquet": {
+        "url": "dictees/1003.zip",
+        "taille": 286092,
+        "sha256": "dde05ad6a3945278ce0b535256c37ea2ac492f592520c4ead3a0cc35d8bd6ebb"
+      },
+      "version": "v4"
+    },
+    {
+      "id": 1004,
+      "titre": "Les corbeaux",
+      "auteur": "Jules Renard",
+      "niveau": 1,
+      "index": 103,
+      "minutes": 2,
+      "texte": "Les corbeaux passent sous un ciel bleu et sans couture. Tout à coup l'un d'eux, qui est en tête, ralentit, et trace un grand cercle. Les autres tournent derrière lui.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 7,
+      "image": "images/1004.svg",
+      "imageSha256": "d32872484bd0918536607c0c6399afbe821f566aea06fe5eee0b69c636ddcb4c",
+      "paquet": {
+        "url": "dictees/1004.zip",
+        "taille": 323846,
+        "sha256": "0fbce338b2328fd843426af840e888407c6a769e824596db9c12ada3cb76e25e"
+      },
+      "version": "v4"
+    },
+    {
+      "id": 1005,
+      "titre": "La souris",
+      "auteur": "Jules Renard",
+      "niveau": 1,
+      "index": 104,
+      "minutes": 2,
+      "texte": "Comme, à la clarté|29| d'une lampe, je fais ma quotidienne page d'écriture, j'entends un léger bruit. Si je m'arrête, il cesse. Il recommence, dès que je gratte le papier. C'est une souris qui s'éveille.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 9,
+      "image": "images/1005.svg",
+      "imageSha256": "51369b0de5bfa217ee9491b7ece16c62abd88a0db09f0f5dd439c9ebd45cb58f",
+      "paquet": {
+        "url": "dictees/1005.zip",
+        "taille": 417642,
+        "sha256": "836c6ee6e89e7fd353655e15cbfba6740692d8099e5a04472ca7346f4ceb4a3b"
+      },
+      "version": "v4"
+    },
+    {
+      "id": 1006,
+      "titre": "À la plage",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 105,
+      "minutes": 4,
+      "texte": "Le dimanche, nous allons à la plage en voiture. Papa porte le parasol et maman porte le panier. Mon petit frère porte son seau rouge et sa pelle. Nous jouons dans les vagues, puis nous mangeons du pain et des fruits sous le parasol. Le soir, mon petit frère dort dans la voiture, avec son seau dans les bras.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 13,
+      "image": "images/1006.svg",
+      "imageSha256": "7cf626540180c9cbd363eae3a78992bb1bbcb3e86c98632d892e5dcdab874db1",
+      "paquet": {
+        "url": "dictees/1006.zip",
+        "taille": 582282,
+        "sha256": "0a00301d94721c7fc6283e0a10190814c43a1476b65ca965ad2dddfb0f531eb3"
+      },
+      "version": "v4"
     }
   ]
 }
