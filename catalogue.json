@@ -36,10 +36,10 @@
       "imageSha256": "eeae99bc1a977365318c484a21013454a60025eac061a8e3fed8c80630715ec3",
       "paquet": {
         "url": "dictees/1002.zip",
-        "taille": 292308,
-        "sha256": "864b43b37d5789a476cd7f8b5936ec8f30d607318572d86e4d9b82fbb6a39623"
+        "taille": 290364,
+        "sha256": "d5430238d93395b66ff5f90d267adb231c5ed5d56919fb5f14144f2630c4dec6"
       },
-      "version": "v2"
+      "version": "v3"
     }
   ]
 }
