@@ -19,7 +19,8 @@
         "taille": 282086,
         "sha256": "db82b2d448dcc1c126406fd31a65ec58c8759f290f5ca6c5200160bf4a075834"
       },
-      "version": "v1"
+      "degre": 4,
+      "version": "v5"
     },
     {
       "id": 1002,
@@ -39,7 +40,8 @@
         "taille": 290364,
         "sha256": "d5430238d93395b66ff5f90d267adb231c5ed5d56919fb5f14144f2630c4dec6"
       },
-      "version": "v3"
+      "degre": 3,
+      "version": "v5"
     },
     {
       "id": 1003,
@@ -59,7 +61,8 @@
         "taille": 286092,
         "sha256": "dde05ad6a3945278ce0b535256c37ea2ac492f592520c4ead3a0cc35d8bd6ebb"
       },
-      "version": "v4"
+      "degre": 1,
+      "version": "v5"
     },
     {
       "id": 1004,
@@ -79,7 +82,8 @@
         "taille": 323846,
         "sha256": "0fbce338b2328fd843426af840e888407c6a769e824596db9c12ada3cb76e25e"
       },
-      "version": "v4"
+      "degre": 4,
+      "version": "v5"
     },
     {
       "id": 1005,
@@ -99,7 +103,8 @@
         "taille": 417642,
         "sha256": "836c6ee6e89e7fd353655e15cbfba6740692d8099e5a04472ca7346f4ceb4a3b"
       },
-      "version": "v4"
+      "degre": 2,
+      "version": "v5"
     },
     {
       "id": 1006,
@@ -119,7 +124,449 @@
         "taille": 582282,
         "sha256": "0a00301d94721c7fc6283e0a10190814c43a1476b65ca965ad2dddfb0f531eb3"
       },
-      "version": "v4"
+      "degre": 2,
+      "version": "v5"
+    },
+    {
+      "id": 1007,
+      "titre": "Le perroquet",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 106,
+      "minutes": 3,
+      "texte": "Notre perroquet imite la sonnerie du téléphone. Chaque fois, papa court dans toute la maison pour répondre. Hier, il a cherché pendant dix minutes avant de comprendre. Le perroquet, lui, riait aux éclats.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 10,
+      "image": "images/1007.svg",
+      "imageSha256": "f75706d54919f35cc14a7513b8d2d6a794686e9e94a3bb71457ab8b449f55505",
+      "paquet": {
+        "url": "dictees/1007.zip",
+        "taille": 458544,
+        "sha256": "80b894500a029ac5da425ec5001bf453c13b26092437342913f7a564cba1bac1"
+      },
+      "degre": 3,
+      "version": "v5"
+    },
+    {
+      "id": 1008,
+      "titre": "Le message vocal",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 107,
+      "minutes": 4,
+      "texte": "Mon cousin n'aime pas écrire : il envoie des messages vocaux de quatre minutes. Il commence toujours par saluer toute la famille, puis il raconte sa journée, le prix des tomates et le temps qu'il fait. À la fin, il ajoute enfin la vraie nouvelle : il se marie samedi.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 11,
+      "image": "images/1008.svg",
+      "imageSha256": "cdb7b1968bc594b395690235356b95bc54257d5f41dfad5570e99c50b3f0cce0",
+      "paquet": {
+        "url": "dictees/1008.zip",
+        "taille": 625566,
+        "sha256": "3d813cd9b8f94a1c899d34e414042fa510b42a508dc9607e092c938f47b9b8da"
+      },
+      "degre": 3,
+      "version": "v5"
+    },
+    {
+      "id": 1009,
+      "titre": "La poule",
+      "auteur": "Jules Renard",
+      "niveau": 2,
+      "index": 108,
+      "minutes": 3,
+      "texte": "Pattes jointes, elle saute du poulailler, dès qu'on lui ouvre la porte. C'est une poule commune, modestement parée et qui ne pond jamais d'œufs d'or. Éblouie de lumière, elle fait quelques pas, indécise, dans la cour.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 10,
+      "image": "images/1009.svg",
+      "imageSha256": "297b622439ec93aa46345fba7df05aaf645c809c154d8cb83a4e6e30560be83d",
+      "paquet": {
+        "url": "dictees/1009.zip",
+        "taille": 556584,
+        "sha256": "cbe6c01fcb5a987e8333244f84c59628a45b3631d6da0d96ba22436ff82bc871"
+      },
+      "degre": 5,
+      "version": "v5"
+    },
+    {
+      "id": 1011,
+      "titre": "La lessive",
+      "auteur": "anonyme",
+      "niveau": 2,
+      "index": 110,
+      "minutes": 3,
+      "texte": "Ce matin, maman a étendu le linge dans la cour. Une heure plus tard, un orage a éclaté. Les chemises, trempées et couvertes de boue, se balançaient tristement sur la corde.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 8,
+      "image": "images/1011.svg",
+      "imageSha256": "4aa3773bcba450305fab71bcb5a462d4fffe557317531ada6defbece3efbadc4",
+      "paquet": {
+        "url": "dictees/1011.zip",
+        "taille": 512344,
+        "sha256": "1f0747c09b83cfb0f6f680251b257ae16610ca7c3e6976fca0962bdbe3dc92ac"
+      },
+      "degre": 4,
+      "version": "v5"
+    },
+    {
+      "id": 1012,
+      "titre": "La panne de courant",
+      "auteur": "anonyme",
+      "niveau": 2,
+      "index": 111,
+      "minutes": 5,
+      "texte": "Hier soir, le courant a encore été coupé. Mon petit frère a crié comme si le monde allait finir. Maman a allumé une bougie, papa a sorti la vieille radio, et ma sœur a cherché du réseau en levant son téléphone vers le ciel. Finalement, nous avons raconté des histoires dans le noir. C'était la meilleure soirée de la semaine.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 12,
+      "image": "images/1012.svg",
+      "imageSha256": "ba707d1ee98108b98736c3d33a19cedb6c459527b787dadfede3b0ada045e0d1",
+      "paquet": {
+        "url": "dictees/1012.zip",
+        "taille": 1000980,
+        "sha256": "96ad76e2cd28c88a8b2d0179ea60c29264e0391855641883f4f6f34f62010bf4"
+      },
+      "degre": 4,
+      "version": "v5"
+    },
+    {
+      "id": 1013,
+      "titre": "Le moustique",
+      "auteur": "anonyme",
+      "niveau": 2,
+      "index": 112,
+      "minutes": 3,
+      "texte": "Toute la nuit, un moustique a tourné autour de ma tête. J'ai allumé la lampe, je l'ai cherché partout, même sous le lit. Dès que j'éteignais, il revenait chanter à mon oreille, sans se fatiguer.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 9,
+      "image": "images/1013.svg",
+      "imageSha256": "c6c01da57785a6ff33c2ceb0679baa8677a3fa4d9d42dca70a16005aa9345b02",
+      "paquet": {
+        "url": "dictees/1013.zip",
+        "taille": 603762,
+        "sha256": "67b249043acf0fc99a9849a6deb4872afac5be2fc39bcc5f1f670b14fb231c69"
+      },
+      "degre": 6,
+      "version": "v5"
+    },
+    {
+      "id": 1014,
+      "titre": "Le match",
+      "auteur": "anonyme",
+      "niveau": 2,
+      "index": 113,
+      "minutes": 5,
+      "texte": "Ce soir, toute la ville regarde le match. Les rues sont vides, les marchands sont rentrés chez eux et même les chiens se taisent. Au premier but, un cri immense monte de chaque maison. Mon oncle saute si haut qu'il touche le ventilateur. Personne n'est blessé, mais le ventilateur, lui, ne tournera plus jamais droit.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 13,
+      "image": "images/1014.svg",
+      "imageSha256": "a094ce61411ced1d560918de4b6b5c8736154a648b924192724bf750062ce73e",
+      "paquet": {
+        "url": "dictees/1014.zip",
+        "taille": 959346,
+        "sha256": "93f42a6a61fe210807892b0de7e978079910ce1cfb999556acfcdb030674a58f"
+      },
+      "degre": 4,
+      "version": "v5"
+    },
+    {
+      "id": 1015,
+      "titre": "La maison",
+      "auteur": "Colette",
+      "niveau": 3,
+      "index": 114,
+      "minutes": 3,
+      "texte": "La maison était grande, coiffée d'un grenier haut. La pente raide de la rue obligeait les écuries et les remises, les poulaillers, la buanderie, la laiterie, à se blottir en contrebas tout autour d'une cour fermée.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 9,
+      "image": "images/1015.svg",
+      "imageSha256": "192ee428d5ad4e4602f15adb30b0f3e1578d1460eff7024c7c28141cbe73c4a5",
+      "paquet": {
+        "url": "dictees/1015.zip",
+        "taille": 638754,
+        "sha256": "f6b03445037bc382ddfe340cd798d6ac05954c9e8008998556eb25e7cb1e8b4e"
+      },
+      "degre": 4,
+      "version": "v5"
+    },
+    {
+      "id": 1016,
+      "titre": "Le taxi",
+      "auteur": "anonyme",
+      "niveau": 3,
+      "index": 115,
+      "minutes": 6,
+      "texte": "Dans le taxi, nous étions sept au lieu de quatre. Une dame tenait sur ses genoux un panier d'où sortait, de temps en temps, la tête d'un poulet curieux. Le chauffeur, qui conduisait d'une main, réglait la radio de l'autre et saluait tous les gens qu'il croisait. À chaque virage, le poulet protestait. Quand le taxi s'est enfin arrêté, il a été le premier à descendre, sans payer.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 15,
+      "image": "images/1016.svg",
+      "imageSha256": "75f613e9f72b2d0d71641b0f733ec3d1b75808ade89e15d6522c504126e5e13a",
+      "paquet": {
+        "url": "dictees/1016.zip",
+        "taille": 1169934,
+        "sha256": "3b50fd863feaf0c981bdc29d018597de2562a0bb99c025460cb7027cf07abaec"
+      },
+      "degre": 6,
+      "version": "v5"
+    },
+    {
+      "id": 1017,
+      "titre": "La photo de classe",
+      "auteur": "anonyme",
+      "niveau": 3,
+      "index": 116,
+      "minutes": 3,
+      "texte": "Le maître voulait une photo de classe parfaite. Il a exigé que chacun se coiffe, se taise et sourie. Au moment du déclic, une mouche s'est posée sur son nez, et toute la classe a éclaté de rire.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 8,
+      "image": "images/1017.svg",
+      "imageSha256": "79b11b1cb9edfd179b01f07b679c107fbf3bf0e3aab5e1da781f906f5f98fa7a",
+      "paquet": {
+        "url": "dictees/1017.zip",
+        "taille": 591016,
+        "sha256": "731e6e6e3086033f715a8233918d95e3e2596f1d97cba038a210ac8672eca4f1"
+      },
+      "degre": 6,
+      "version": "v5"
+    },
+    {
+      "id": 1018,
+      "titre": "Le phare",
+      "auteur": "Alphonse Daudet",
+      "niveau": 3,
+      "index": 117,
+      "minutes": 5,
+      "texte": "Le vent fraîchissait, l'île devenait violette. Dans le ciel, près de moi, un gros oiseau passait lourdement : c'était l'aigle de la tour génoise qui rentrait… Peu à peu la brume de mer montait. Bientôt on ne voyait plus que l'ourlet blanc de l'écume autour de l'île… Tout à coup, au-dessus de ma tête, jaillissait un grand flot de lumière douce. Le phare était allumé.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 16,
+      "image": "images/1018.svg",
+      "imageSha256": "fdcfbf1a4bb8f094a8db5bd89b21b7d828fc69013d3dc70349ac9ad3afdded1a",
+      "paquet": {
+        "url": "dictees/1018.zip",
+        "taille": 1048668,
+        "sha256": "c7b541575e1585f47a9e06b4aebe926aa3d2b2852c3a66034c8c4fac56eb8029"
+      },
+      "degre": 7,
+      "version": "v5"
+    },
+    {
+      "id": 1019,
+      "titre": "Le réveil",
+      "auteur": "anonyme",
+      "niveau": 3,
+      "index": 118,
+      "minutes": 3,
+      "texte": "Bien qu'il ait programmé trois alarmes, mon grand frère s'est réveillé à midi. Les sonneries qu'il avait choisies, des chants de rossignols paisibles, l'ont bercé au lieu de le tirer du lit. Désormais, il dort à côté d'un coq.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 8,
+      "image": "images/1019.svg",
+      "imageSha256": "2bf1eed3eb9c6c6805cd70110ee142cae71c5dae29c3ab0f86b28844a6c479bf",
+      "paquet": {
+        "url": "dictees/1019.zip",
+        "taille": 679624,
+        "sha256": "ccf8e9947c2ad2f85a90cfb52397edc7a7fdd4a26d805a3bb57598e7becee6c6"
+      },
+      "degre": 6,
+      "version": "v5"
+    },
+    {
+      "id": 1020,
+      "titre": "Le groupe de la famille",
+      "auteur": "anonyme",
+      "niveau": 3,
+      "index": 119,
+      "minutes": 6,
+      "texte": "Depuis que ma tante a créé le groupe de la famille, nos téléphones ne se sont plus jamais tus. Les photos de plats qu'on avait cuisinés la veille s'y succèdent, entrecoupées de proverbes que personne n'a lus jusqu'au bout. Quant aux cousins, ils se sont promis de répondre plus tard, ce qu'ils n'ont évidemment jamais fait. Seul mon grand-père, qui n'a pas de téléphone, connaît vraiment la paix.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 16,
+      "image": "images/1020.svg",
+      "imageSha256": "4bcf6b253c135e12a63f183a9a04e8e8ce18ba51f3837d6c5b5a258ed4b31ce6",
+      "paquet": {
+        "url": "dictees/1020.zip",
+        "taille": 1095204,
+        "sha256": "3e01bd91afdb95d9e2b193f37972e095eefd0051396bb0c52054c29557448ca0"
+      },
+      "degre": 7,
+      "version": "v5"
+    },
+    {
+      "id": 1021,
+      "titre": "Les mangues",
+      "auteur": "anonyme",
+      "niveau": 3,
+      "index": 120,
+      "minutes": 4,
+      "texte": "Les mangues que ma tante avait cueillies s'étaient entassées jusqu'au plafond de la cuisine. Quelque gourmands que soient mes cousins, ils n'en ont mangé qu'une douzaine, si bien qu'il a fallu que j'en distribue à tous les voisins, qui, eux-mêmes, n'en voulaient plus.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 10,
+      "image": "images/1021.svg",
+      "imageSha256": "78c260c0512b87a0f7041f8ec3084850237108036e31f57aedc2c145fff7042e",
+      "paquet": {
+        "url": "dictees/1021.zip",
+        "taille": 696456,
+        "sha256": "d099f48df33c767836bf2307412eafab087d4bb5d5b048f8459d093f169a31ef"
+      },
+      "degre": 10,
+      "version": "v5"
+    },
+    {
+      "id": 1022,
+      "titre": "La panne de connexion",
+      "auteur": "anonyme",
+      "niveau": 3,
+      "index": 121,
+      "minutes": 6,
+      "texte": "Quand la connexion s'est interrompue, toute la maison a cru que le monde s'était arrêté. Les adolescents, qu'on n'avait jamais vus si désemparés, se sont résignés à parler entre eux. Quelque ennuyeuse qu'ait paru cette soirée au début, elle s'est révélée délicieuse : on a ressorti les vieux jeux de société|29|, dont personne ne se rappelait les règles, et l'on a ri jusqu'à minuit. Il faudrait que la panne revienne plus souvent.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 15,
+      "image": "images/1022.svg",
+      "imageSha256": "d0d7dd29e49d3d56617cf6af952266140998cdaa1901bd30f0e39cc648f5c11c",
+      "paquet": {
+        "url": "dictees/1022.zip",
+        "taille": 1178886,
+        "sha256": "f166e3f941d2b41a5ed6cfe31178d840c5564af3d273266835f79055c4abb96c"
+      },
+      "degre": 10,
+      "version": "v5"
+    },
+    {
+      "id": 1023,
+      "titre": "Les pantoufles",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 122,
+      "minutes": 2,
+      "texte": "Le matin, le bus passe devant la maison. Mon frère court avec son sac sur le dos. Le conducteur l'attend. Dans le bus, il baisse la tête : il porte encore les pantoufles de papa.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 8,
+      "image": "images/1023.svg",
+      "imageSha256": "9b6c1e49f027c9c0eaa41dcb16094060bd0be49a0e578762df87b7c21a4ea1b2",
+      "paquet": {
+        "url": "dictees/1023.zip",
+        "taille": 546520,
+        "sha256": "ad3e8739805e29fc43a2e0d9260cce1baa01c69731f7a2deda4efdf910854bc7"
+      },
+      "degre": 1,
+      "version": "v5"
+    },
+    {
+      "id": 1024,
+      "titre": "Le chien de la voisine",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 123,
+      "minutes": 2,
+      "texte": "Le chien de la voisine dort du matin au soir. Vers six heures, il lève la tête et regarde la porte. Quand la voisine rentre, il saute, il tourne et il aboie très fort.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 7,
+      "image": "images/1024.svg",
+      "imageSha256": "f6ce732e075c2a8efd6a1578d29e11488fe812a0cd3cb31814372d9115a589e6",
+      "paquet": {
+        "url": "dictees/1024.zip",
+        "taille": 507950,
+        "sha256": "a01a0ff4209ab3550adf20900ada2407fa76006d0a75998f98f6f036ca8df21c"
+      },
+      "degre": 2,
+      "version": "v5"
+    },
+    {
+      "id": 1025,
+      "titre": "La pluie",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 124,
+      "minutes": 2,
+      "texte": "Il pleut depuis le matin. Dans la cour, les enfants regardent les flaques. Mon petit frère met des bottes et saute dedans. Maman crie, mais il rit : il a de l'eau jusqu'aux oreilles.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 8,
+      "image": "images/1025.svg",
+      "imageSha256": "14babc4da6b444d607350aa558d89ed109eb8f572a11db1821671262ae852d9c",
+      "paquet": {
+        "url": "dictees/1025.zip",
+        "taille": 487888,
+        "sha256": "a627fda947d6bc11e54b4e6f3509ec8a267cfda86089e68e875882310a943816"
+      },
+      "degre": 1,
+      "version": "v5"
+    },
+    {
+      "id": 1027,
+      "titre": "Les étoiles filantes",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 126,
+      "minutes": 3,
+      "texte": "Une étoile filante n'est pas une étoile. C'est une petite pierre venue de l'espace, qui brûle en entrant dans l'air. Elle laisse une trace de lumière pendant une seconde, puis elle disparaît.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 7,
+      "image": "images/1027.svg",
+      "imageSha256": "6da91664bd92ef8b7c8656c536145b727b85d1380d6821922259d44890dd359f",
+      "paquet": {
+        "url": "dictees/1027.zip",
+        "taille": 554366,
+        "sha256": "c980b0472a17e58ba0094f93f0e35ac12de860bc0ffc6382542cadf92e3e4e36"
+      },
+      "degre": 2,
+      "version": "v5"
+    },
+    {
+      "id": 1033,
+      "titre": "Devinette",
+      "auteur": "anonyme",
+      "niveau": 1,
+      "index": 132,
+      "minutes": 2,
+      "texte": "J'ai des dents pointues, mais je ne mange jamais. Chaque matin, je passe dans les cheveux des enfants, qui crient quand je rencontre un nœud. Qui suis-je ? Le peigne !",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 7,
+      "image": "images/1033.svg",
+      "imageSha256": "3bf3afe091d19b1ee1c2c18a3c8938f4b89bb52d36d03a165fed3f52920b50e2",
+      "paquet": {
+        "url": "dictees/1033.zip",
+        "taille": 468038,
+        "sha256": "4c047952377657c5e6668dc88bdaed91085f5535f546b124393e59f57a287c1f"
+      },
+      "degre": 3,
+      "version": "v5"
+    },
+    {
+      "id": 1039,
+      "titre": "Les arbres",
+      "auteur": "anonyme",
+      "niveau": 3,
+      "index": 138,
+      "minutes": 5,
+      "texte": "Quoi qu'on en dise, les arbres que nos ancêtres avaient plantés le long des routes ne sont pas de simples décorations. Ils retiennent la terre que les pluies auraient emportée, abritent des oiseaux que l'on croyait disparus et rafraîchissent l'air des villes, quelque brûlant que soit le soleil. Les abattre, c'est se priver d'alliés précieux.",
+      "acces": "gratuit",
+      "versionAppMin": 35,
+      "nbSegments": 12,
+      "image": "images/1039.svg",
+      "imageSha256": "6bf987b8c8b68c16b01c23ae6ba26790bb69c1f1b99c1cf6d5222880392a5522",
+      "paquet": {
+        "url": "dictees/1039.zip",
+        "taille": 731628,
+        "sha256": "56b16b82b0b1ac6f80713523ecd3590b47a327c0e494cbab3315d30f8ac1cd85"
+      },
+      "degre": 10,
+      "version": "v5"
     }
   ]
 }
